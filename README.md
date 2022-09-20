@@ -12,7 +12,8 @@ Users will require a screen reader, such as Chrome Vox or Apple VoiceOver in ord
 
 ## Usage
 To best use the semantic feature on this project, navigate to the website, open Chrome DevTools, and have your screenreader read the code out loud. 
-
+Screenshot of active Website- 
+[ Horiseon website screenshot](assets/images/screencap.PNG)
 ## License
 
 MIT License
